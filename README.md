@@ -1,2 +1,2 @@
 # mayub
-Geek Generels IQ
+Geek Generels IQ Only
