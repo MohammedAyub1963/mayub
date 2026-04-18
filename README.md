@@ -1,0 +1,2 @@
+# mayub
+Geek Generels IQ
