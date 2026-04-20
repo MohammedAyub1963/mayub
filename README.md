@@ -16,3 +16,4 @@ border-radius: 20px;
 cursor: pointer;
 transition: all 0.2s ease;
 font-weight: bold;
+document.addEventListener('DOMContentLoaded', () => {
