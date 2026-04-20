@@ -8,3 +8,4 @@ Geek Generels IQ Only
 </button>
 </div>
 .like-button {
+background: #1e2329;
