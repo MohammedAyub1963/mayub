@@ -6,3 +6,4 @@ Geek Generels IQ Only
 <span class="icon">🚀</span>
 <span id="likeCount">0</span>
 </button>
+</div>
