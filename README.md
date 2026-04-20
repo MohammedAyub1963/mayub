@@ -64,3 +64,4 @@ asl
 jki
 hjkl
 hkiu
+uiui
