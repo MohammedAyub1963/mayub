@@ -12,3 +12,4 @@ background: #1e2329;
 color: #f0b90b; /* Binance Yellow */
 border: 1px solid #474d57;
 padding: 8px 15px;
+border-radius: 20px;
