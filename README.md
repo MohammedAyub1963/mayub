@@ -9,3 +9,4 @@ Geek Generels IQ Only
 </div>
 .like-button {
 background: #1e2329;
+color: #f0b90b; /* Binance Yellow */
