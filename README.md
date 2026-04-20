@@ -51,3 +51,12 @@ asdf
 adfdf
 ro
 asdfff
+{
+  "manifest_version": 3,
+  "name": "Crypto Like Tracker",
+  "version": "1.0",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
