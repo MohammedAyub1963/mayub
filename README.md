@@ -28,3 +28,4 @@ fc
 ee
 eew
 ewe
+ewere
