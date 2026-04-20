@@ -19,3 +19,4 @@ font-weight: bold;
 document.addEventListener('DOMContentLoaded', () => {
 const likeBtn = document.getElementById('likeBtn');
 as
+af
