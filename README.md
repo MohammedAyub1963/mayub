@@ -20,3 +20,4 @@ document.addEventListener('DOMContentLoaded', () => {
 const likeBtn = document.getElementById('likeBtn');
 as
 af
+at
