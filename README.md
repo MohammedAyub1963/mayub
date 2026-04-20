@@ -65,3 +65,4 @@ jki
 hjkl
 hkiu
 uiui
+yio
