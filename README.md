@@ -66,3 +66,4 @@ hjkl
 hkiu
 uiui
 yio
+hkliui
