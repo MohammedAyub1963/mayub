@@ -18,3 +18,4 @@ transition: all 0.2s ease;
 font-weight: bold;
 document.addEventListener('DOMContentLoaded', () => {
 const likeBtn = document.getElementById('likeBtn');
+as
