@@ -5,3 +5,4 @@ Geek Generels IQ Only
 <button id="likeBtn" class="like-button">
 <span class="icon">🚀</span>
 <span id="likeCount">0</span>
+</button>
