@@ -7,3 +7,4 @@ Geek Generels IQ Only
 <span id="likeCount">0</span>
 </button>
 </div>
+.like-button {
